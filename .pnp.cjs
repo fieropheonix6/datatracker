@@ -74,7 +74,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["list.js", "npm:2.3.1"],\
             ["lodash", "npm:4.17.21"],\
             ["lodash-es", "npm:4.17.21"],\
-            ["luxon", "npm:3.0.3"],\
+            ["luxon", "npm:3.2.1"],\
             ["moment", "npm:2.29.4"],\
             ["moment-timezone", "npm:0.5.37"],\
             ["ms", "npm:2.1.3"],\
@@ -367,7 +367,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@fullcalendar/luxon2", "virtual:dc3fc578bfa5e06182a4d2be39ede0bc5b74940b1ffe0d70c26892ab140a4699787750fba175dc306292e80b4aa2c8c5f68c2a821e69b2c37e360c0dff36ff66#npm:5.11.3"],\
             ["@fullcalendar/common", "npm:5.11.3"],\
             ["@types/luxon", null],\
-            ["luxon", "npm:3.0.3"],\
+            ["luxon", "npm:3.2.1"],\
             ["tslib", "npm:2.4.0"]\
           ],\
           "packagePeers": [\
@@ -6997,10 +6997,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["luxon", [\
-        ["npm:3.0.3", {\
-          "packageLocation": "./.yarn/cache/luxon-npm-3.0.3-3194094d12-67d143f102.zip/node_modules/luxon/",\
+        ["npm:3.2.1", {\
+          "packageLocation": "./.yarn/cache/luxon-npm-3.2.1-56f8d97395-3fa3def2c5.zip/node_modules/luxon/",\
           "packageDependencies": [\
-            ["luxon", "npm:3.0.3"]\
+            ["luxon", "npm:3.2.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -8541,7 +8541,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["list.js", "npm:2.3.1"],\
             ["lodash", "npm:4.17.21"],\
             ["lodash-es", "npm:4.17.21"],\
-            ["luxon", "npm:3.0.3"],\
+            ["luxon", "npm:3.2.1"],\
             ["moment", "npm:2.29.4"],\
             ["moment-timezone", "npm:0.5.37"],\
             ["ms", "npm:2.1.3"],\
